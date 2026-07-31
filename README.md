@@ -36,7 +36,7 @@ A compact 75% mechanical keyboard taken inspiration from the Keycool 84, that ha
 
 ---
 
-##Case Bottom
+## Case Bottom
 
 Case screws: M3
 <img width="1281" height="631" alt="image" src="https://github.com/user-attachments/assets/60296ab8-d52d-41c3-bcce-68f556a049be" />
@@ -46,19 +46,19 @@ Case screws: M3
 
 ---
 
-##Case Top
+## Case Top
 
 <img width="1151" height="582" alt="image" src="https://github.com/user-attachments/assets/81d20d26-2258-479b-9fac-6c625ce15b7c" />
 <img width="1159" height="242" alt="image" src="https://github.com/user-attachments/assets/1263ee79-d03a-4763-bcda-ead037b39018" />
 
 ---
 
-##Plate
+## Plate
 
 <img width="1078" height="510" alt="image" src="https://github.com/user-attachments/assets/673b1588-5775-4bd2-b311-759cdca4a7b6" />
 1.5mm thickness
 
-##Pin Mapping
+## Pin Mapping
 
 | Function | Pin |
 | Columns (col 1-15) | PA 0-2,6,7, PB 12-15, PC 4-9 |
@@ -75,13 +75,13 @@ Case screws: M3
 <img width="1178" height="497" alt="image" src="https://github.com/user-attachments/assets/aed3ae68-4b25-41cd-81e7-43f9d0e9a34b" />
 
 ---
-##Firmware
+## Firmware
 
 ---
-##PCB/Assembly Note
+## PCB/Assembly Note
 
 ---
-##Lessons learnt
+## Lessons learnt
 - **As a complete beginner to these things, I learnt so much about, planning out schematics, routing PCBs, and CAD. When I first started this project I didn't even know I had to make the keyboard layout. So, I had a friend of mine (thephantompx) that has more experience to guide me through the first few days of using Kicad and setting up the schematics. He gave me advice on the components needed, how to connect them, and also taught me how to route the PCB. We ran out of I/O pins on the Pico pi so we found a suitable MCU and made our own board. CAD was horrid. I used FreeCAD because OnShape was laggy for me. It took me 2 days to figure out how to even make a sketch, and the tutorial I was following didn't really teach too much of what I needed, just enough to get me started. Tbh I didn't think it'd take this long, but then again I started with literally 0 experience. This project was a great opportunity for me to use my free time to get experience on how to design things. 
 
 
