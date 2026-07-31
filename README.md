@@ -17,25 +17,6 @@ A compact 75% mechanical keyboard taken inspiration from the Keycool 84, that ha
 
 ---
 
-## Hardware
-
-| Component | Specs |
-| --- | --- |
-| MCU | STM32F405GT6 |
-| USBC Receptacle | USB4085 |
-| Linear regulator | AMS1117-3.3 |
-| Connector | TC2030 |
-| Oscillating crystal | X322525MOB4SI |
-| Switches | Cherry MX Brown |
-| Rotary Encoder | EC11 |
-| Diodes | 1N4148 |
-| Decoupling caps | 
-| Resistors | 
-| 0.91 inch Display | SSD1306 |
-| Button switch | B3U-1000P |
-
----
-
 ## Case Bottom
 
 Case screws: M3
