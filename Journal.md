@@ -17,7 +17,7 @@ https://lapse.hackclub.com/timelapse/-kUr7TK3-eP2
 
 ## Entry 2 - Planning out the schematics
 **Date: July 18th**
-- I followed the guide for this, until i found out i did not have enough i/o pins, so i switched to the STM32F405GT6 mcu and added all other necessary components, 
+- I followed the guide for this, until i found out i did not have enough i/o pins, so i switched to the STM32F405RGT6 mcu and added all other necessary components, 
 with help from my friend. 
 
 $$\color{red}{**Total \space hours: \space 1**}$$
