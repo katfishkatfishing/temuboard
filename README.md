@@ -8,7 +8,7 @@ A compact 75% mechanical keyboard taken inspiration from the Keycool 84, that ha
 
 ## Features
 
-- **79 keys** (78 keys + rotary encoder button)
+- **80 keys** (79 keys + rotary encoder button)
 - **EC11 Rotary Encoder** - rotation bound to volume, button bound to mute.
 - **128x64 I2C Display** - to play tiny animations.
 - **Custom MCU** - for extra I/O pins.
