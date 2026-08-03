@@ -1,5 +1,5 @@
 ## Build Journal
-  Hours: 60 
+  Hours: 72 
   - Everything was recorded in Lapse: https://lapse.hackclub.com/user/@jian
   ---
   
