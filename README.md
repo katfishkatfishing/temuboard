@@ -8,12 +8,11 @@ A compact 75% mechanical keyboard taken inspiration from the Keycool 84, that ha
 
 ## Features
 
-- **80 keys** (79 keys + rotary encoder button)
-- **EC11 Rotary Encoder** - rotation bound to volume, button bound to mute.
-- **128x64 I2C Display** - to play tiny animations.
-- **Custom MCU** - for extra I/O pins.
-- **RMK firmware** (?)
-- **Bottom mount style** - Bottom case, plate, Cherry MX switches, top case.
+- **79 keys**
+- **EC11 Rotary Encoder** - rotation bound to volume
+- **128x64 I2C Display** - to play tiny animations
+- **QMK firmware** - for STM32F405 MCUs
+- **Bottom mount style** - Bottom case, plate, Cherry MX switches, top case
 
 ---
 
@@ -47,8 +46,7 @@ Case screws: M3
 | Row (row 1-6) | PA3, PB 0-2, 10,11 |
 | Encoder A/B | PA8/PA10 |
 | OLED SDA/SCL | PB6/PB7 |
-| Crystal In/Out | PH0/PH1 |
-| D+/D- | PA11/PA12 |
+
 
 <img width="1660" height="894" alt="image" src="https://github.com/user-attachments/assets/e5a66a0c-9616-44ab-ae0f-451068dd2e3c" />
 <img width="1663" height="689" alt="image" src="https://github.com/user-attachments/assets/e1348dc0-959a-4287-a88a-baaa524fdbb7" />
@@ -58,10 +56,14 @@ Case screws: M3
 
 ---
 ## Firmware
-
+- Uses QMK firmware
+- Has only 1 layer
+- Replaced right FN key to open task manager
+- Programmed OLED display to play animations with 2 frames
+- QMK firmware defaults rotary encoder to control volume
 ---
 ## PCB/Assembly Note
-
+- All components are to be hand soldered, including SMD components
 ---
 ## Lessons learnt
 - As a complete beginner to these things, I learnt so much about, planning out schematics, routing PCBs, and CAD. When I first started this project I didn't even know I had to make the keyboard layout. So, I had a friend of mine (thephantompx) that has more experience to guide me through the first few days of using Kicad and setting up the schematics. He gave me advice on the components needed, how to connect them, and also taught me how to route the PCB. We ran out of I/O pins on the Pico pi so we found a suitable MCU and made our own board. CAD was horrid. I used FreeCAD because OnShape was laggy for me. It took me 2 days to figure out how to even make a sketch, and the tutorial I was following didn't really teach too much of what I needed, just enough to get me started. Tbh I didn't think it'd take this long, but then again I started with literally 0 experience. This project was a great opportunity for me to use my free time to get experience on how to design things.
