@@ -48,7 +48,7 @@ Case screws: M3
 | OLED SDA/SCL | PB6/PB7 |
 
 
-<img width="1660" height="894" alt="image" src="https://github.com/user-attachments/assets/e5a66a0c-9616-44ab-ae0f-451068dd2e3c" />
+<img width="1217" height="862" alt="image" src="https://github.com/user-attachments/assets/852748fa-c5bc-4bbc-864a-485fec61c1de" />
 <img width="1663" height="689" alt="image" src="https://github.com/user-attachments/assets/e1348dc0-959a-4287-a88a-baaa524fdbb7" />
 <img width="1535" height="707" alt="image" src="https://github.com/user-attachments/assets/016bb7b7-f00e-496d-b696-be8da677b752" />
 <img width="975" height="428" alt="image" src="https://github.com/user-attachments/assets/2da4dde5-e6ae-4e82-a0a8-1d746bb9ddd6" />
