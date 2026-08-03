@@ -2,6 +2,7 @@
   Hours: 60 
   - Everything was recorded in Lapse: https://lapse.hackclub.com/user/@jian
   ---
+  
 
 ## Entry 1 - Figuring out the layout
 **Date: July 16th**
@@ -15,6 +16,7 @@ https://lapse.hackclub.com/timelapse/-kUr7TK3-eP2
 
 - 1hr timelapse that only recorded the kicad homepage cuz i was stupid and only selected that window
 
+
 ## Entry 2 - Planning out the schematics
 **Date: July 18th**
 - I followed the guide for this, until i found out i did not have enough i/o pins, so i switched to the STM32F405RGT6 mcu and added all other necessary components, 
@@ -25,6 +27,7 @@ $$\color{red}{**Total \space hours: \space 1**}$$
 <img width="1664" height="882" alt="image" src="https://github.com/user-attachments/assets/887425ab-45a4-4138-9010-ac70789c7030" />
 https://lapse.hackclub.com/timelapse/EOpBaJheHwFZ
 
+
 ## Entry 3 - Assigning footprints and then layout in PCB + redo switch matrix
 **Date: July 19th**
 - downloading libs and footprints then assigning them, then doing the layout for the PCB, then reach enlightenment and redo switch matrix
@@ -33,6 +36,7 @@ $$\color{red}{**Total \space hours: \space 4**}$$
 
 <img width="1427" height="660" alt="image" src="https://github.com/user-attachments/assets/27be0cfc-fae6-4f24-b55f-4d9bda66216f" />
 https://lapse.hackclub.com/timelapse/TPhGV8h5PCIk
+
 
 ## Entry 4 - More designing the layout of PCB, then some prep for routing traces
 **Date: July 20th**
@@ -43,6 +47,7 @@ $$\color{red}{**Total \space hours: \space 4**}$$
 <img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/04787029-cc0d-40b2-a680-72a0e4274007" />
 https://lapse.hackclub.com/timelapse/01aFHcZoXgP2
 
+
 ## Entry 5 - Start to route traces
 **Date: July 20th**
 - moved mcu to better spot then route traces, felt like i was in hell tbh, sososo tedious
@@ -51,6 +56,7 @@ $$\color{red}{**Total \space hours: \space 6**}$$
 
 <img width="1035" height="896" alt="image" src="https://github.com/user-attachments/assets/dae2f66f-a62b-4fb1-8269-574f789b99e4" />
 https://lapse.hackclub.com/timelapse/SX4pOZ0vFfX8
+
 
 ## Entry 6 - Still routing pcb then started CAD
 **Date: July 21st**
@@ -61,6 +67,7 @@ $$\color{red}{**Total \space hours: \space 5(3+2)**}$$
 <img width="1138" height="459" alt="image" src="https://github.com/user-attachments/assets/5500276e-0f8b-44de-a63f-52bedeca2707" />
 https://lapse.hackclub.com/timelapse/W9iDYJItnsjG
 
+
 ## Entry 7 - Resolving errors in pcb then figuring out the case design in freecad
 **Date: July 22nd**
 - Uh i was just going with the flow tbh, im not familiar with freecad and have no idea how to make the shape i want
@@ -69,6 +76,7 @@ $$\color{red}{**Total \space hours: \space 3**}$$
 
 <img width="767" height="361" alt="image" src="https://github.com/user-attachments/assets/dc0bbf2a-3c86-4f9e-8f60-6d064734ffb7" />
 https://lapse.hackclub.com/timelapse/Svkw7hLlLJWZ
+
 
 ## Entry 8 - Assigning 3d models
 **Date: July 23rd**
@@ -79,6 +87,7 @@ $$\color{red}{**Total \space hours: \space 4**}$$
 <img width="1070" height="470" alt="image" src="https://github.com/user-attachments/assets/e59a37f2-f90e-4725-b828-de1bd146c507" />
 https://lapse.hackclub.com/timelapse/a-GTi7Kvh6lG
 
+
 ## Entry 9 - Shaving off pcb size+ resolving errors in PCB again + working on CAD
 **Date: July 23rd**
 - Fixed various errors and had to ask my friend how to fix the thermal relief connection error thing, then continued working on the case
@@ -87,6 +96,7 @@ $$\color{red}{**Total \space hours: \space 3.5**}$$
 
 <img width="1391" height="581" alt="image" src="https://github.com/user-attachments/assets/1fd45d92-5b8c-439f-b75c-f0c103357364" />
 https://lapse.hackclub.com/timelapse/H3K_OknX04cl
+
 
 ## Entry 10 - Re-redesigning PCB
 **Date: July 24th**
@@ -98,6 +108,7 @@ $$\color{red}{**Total \space hours: \space 2**}$$
 <img width="1861" height="958" alt="image" src="https://github.com/user-attachments/assets/20cde47b-37a1-4c74-bd28-b565c876a0fc" />
 https://lapse.hackclub.com/timelapse/BAj46pmvDyro
 
+
 ## Entry 11 - Worked in freecad
 **Date: July 25th**
 - Was just staring a freecad, i had the shape i want in my head, but i had no idea how to translate that into freecad so i just stared at the screen
@@ -108,6 +119,7 @@ $$\color{red}{**Total \space hours: \space 1**}$$
 <img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/6de58a7f-0445-4926-b32d-ec6826c32723" />
 https://lapse.hackclub.com/timelapse/ambSWWBhd6hI
 
+
 ## Entry 12 - Struggle is real in freecad
 **Date: July 26th**
 - Slowly picking up how to use freecad (kinda?) reworked the case bottom, then picked up my notebook and started sketching to help translate it into freecad
@@ -116,6 +128,7 @@ $$\color{red}{**Total \space hours: \space 2**}$$
 
 <img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/1b277aa7-0a24-45f2-ba96-0e4cb7c9791f" />
 https://lapse.hackclub.com/timelapse/bbK7ev6hEqQV
+
 
 ## Entry 13 - More CAD
 **Date: July 27th**
@@ -129,6 +142,7 @@ $$\color{red}{**Total \space hours: \space 3**}$$
 - me adding exported geometry and it not being on the subshape binder, confused me
 https://lapse.hackclub.com/timelapse/y4ROOh121kIA
 
+
 ## Entry 14 - Exploring the limits of freecad and my laptop
 **Date: July 27th**
 - decided i should make a sketch of the plate instead of just using the imported part so that i could make a custom plate, when sketching everytime i do anything,
@@ -140,6 +154,7 @@ $$\color{red}{**Total \space hours: \space 4**}$$
 <img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/86dd5019-0b05-4fff-9e76-b467d52b2150" />
 - freecad not responding 
 https://lapse.hackclub.com/timelapse/5D4HYUurXi5z
+
 
 ## Entry 15 - Freecad.exe is not responding pt.2
 **Date: July 28th**
@@ -153,6 +168,7 @@ $$\color{red}{**Total \space hours: \space 5.5**}$$
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f3c5b181-1a62-4a0b-89fd-97bbcf917b42" />
 https://lapse.hackclub.com/timelapse/GhMEoF24iOgX
 
+
 ## Entry 16 - cadhell 4
 **Date: July 29th**
 - i learnt how to turn draft into sketch but its not what i need, then i somehow was able to import the geometry of the other sketch onto a new sketch, when i
@@ -164,6 +180,7 @@ $$\color{red}{**Total \space hours: \space 2.5**}$$
 <img width="1005" height="575" alt="image" src="https://github.com/user-attachments/assets/17fbd887-cef2-4a77-99da-a5beee70d367" />
 <img width="665" height="374" alt="image" src="https://github.com/user-attachments/assets/38cc7c8a-f076-46b8-8e20-097fc4ad50ee" />
 https://lapse.hackclub.com/timelapse/DjHF61wVqImW
+
 
 ## Entry 17 - Cad and back to PCB
 **Date: July 29th**
@@ -179,6 +196,7 @@ $$\color{red}{**Total \space hours: \space 4**}$$
 <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/41265996-eb67-403b-b1c0-520cbf68e513" />
 https://lapse.hackclub.com/timelapse/XdTzAYLo_5n_
 
+
 ## Entry 18 - Reworking the plate
 **Date: July 30th**
 - reworking pt1 of the plate sketch to make it bigger, but it turns out all that time was useless cuz it didnt even translate to the main sketch. didnt record 
@@ -188,6 +206,7 @@ $$\color{red}{**Total \space hours: \space 0.5**}$$
 
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/47d677b6-9879-4ace-a782-9a4445eca66f" />
 https://lapse.hackclub.com/timelapse/Epne4LsP45pM
+
 
 ## Entry 19 - Cad Endgame (for now hopefully)
 **Date: July 30th**
@@ -199,6 +218,7 @@ $$\color{red}{**Total \space hours: \space 2.5**}$$
 <img width="1409" height="684" alt="image" src="https://github.com/user-attachments/assets/e0662b92-53ef-4382-91e8-951af4ced6ca" />
 <img width="562" height="860" alt="image" src="https://github.com/user-attachments/assets/2f17e8cd-4460-41c8-b9b6-e965e17d3704" />
 https://lapse.hackclub.com/timelapse/PXnifbRMiL9P
+
 
 ## Entry 20 - Which is right now!
 **Date: July 31st**
@@ -212,10 +232,42 @@ $$\color{red}{**Total \space hours: \space 3**}$$
 https://lapse.hackclub.com/timelapse/J6mgZaVTLoea
 
 
+## Entry 21 - Creating the BOM
+**Date: July 31st**
+- still putting off the firmware stuff cuz i dont understand it at all, created the bom and added two missing components to my sch and pcb
+
+$$\color{red}{**Total \space hours: \space 2**}$$
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/d0329ead-a9cf-4cad-bc9d-f28e90141501" />
+https://lapse.hackclub.com/timelapse/EPAxlvIx_O3H
 
 
+## Entry 22 - Learning QMK
+**Date: August 1st**
+- Had a fever so didnt do much work, found out rmk doesnt support the MCU im using, found QMK, read the docs, ultra confused and gave up for the day
+
+  $$\color{red}{**Total \space hours: \space 1**}$$
+
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/c4252d19-5f1c-4d19-9d43-d406b4c48599" />
+https://lapse.hackclub.com/timelapse/cvJtFR6oS3Uj
 
 
+## Entry 23 - Learning QMK pt2
+**Date: August 2nd**
+- Mostly well now, so now i can actually understand the docs, kinda figured out QMK, had some issues in the end
+
+$$\color{red}{**Total \space hours: \space 4**}$$
+
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/124b3284-f08d-4480-a932-27529192826d" />
+https://lapse.hackclub.com/timelapse/vJUAeGbDEvav
+
+## Entry 24 - Finalizing
+**Date: August 3rd**
+- Finishing things up, trying to use jlcpcb and making sure everything is ready before submitting
+
+$$\color{red}{**Total \space hours: \space 2**}$$
+
+https://lapse.hackclub.com/timelapse/2UFzCB3AZBFO
 
 
 
